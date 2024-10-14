@@ -1,0 +1,17 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = skyrim_tavern_inv_tracking_sys
+build_property.RootNamespace = skyrim_tavern_inv_tracking_sys
+build_property.ProjectDir = G:\repos\skyrim-tavern-inv-tracking-sys\skyrim-tavern-inv-tracking-sys\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = G:\repos\skyrim-tavern-inv-tracking-sys\skyrim-tavern-inv-tracking-sys
+build_property._RazorSourceGeneratorDebug = 
