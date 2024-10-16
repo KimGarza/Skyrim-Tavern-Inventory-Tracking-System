@@ -1,4 +1,4 @@
-EDR for the Relational DB Tables - tables exist in AWS RDS
+EDR for the Relational DB Tables - tables exist in AWS RDS as PostgreSQL DB managed with DBeaver
 
 ![EDR](https://github.com/kimgarza/Skyrim-Tavern-Inventory-Tracking-System/raw/dev/skyrim-tavern-inv-tracking-sys/assets/EDR.png)
 
